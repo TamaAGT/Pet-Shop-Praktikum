@@ -1,0 +1,15 @@
+
+
+AKUN EMAIL : kitasemuabisa@gmail.com
+PASSWORD   : 123
+USERNAME   : anggit
+
+DAFTAR FITUR
+
+1. LOGIN
+2. REMEMBER ME
+3. EDIT
+4. DELETE
+5. LOGOUT
+6. REGISTER
+7. OUTPUT DATA
